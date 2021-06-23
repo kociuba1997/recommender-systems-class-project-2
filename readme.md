@@ -66,7 +66,7 @@ Implementation includes:
 
 9. In Jupyter Notebook open project_1_data_preparation.ipynb and run all cells.
 
-10. Next in Jupyter Notebook open project_1_recommender_and_evaluation.ipynb and run all cells.
+10. Next in Jupyter Notebook open project_2_recommender_and_evaluation.ipynb and run all cells.
 
 11. Last cell in project_2_recommender_and_evaluation.ipynb has comparison base on HR@10 metric for NNRecommender, AmazonRecommender, NetflixRecommender.
 
